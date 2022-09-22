@@ -1,0 +1,143 @@
+body{
+  margin: 0;
+ font-family: 'Dancing Script', cursive;
+}
+h1
+{
+  font-family: 'Shadows Into Light', cursive;
+  margin: 0;
+  text-align: center;
+
+}
+
+hr{
+  border-style: dotted;
+  border-width: 10px;
+  border-top: : 10px;
+  border-bottom: 0;
+  border-color: grey;
+  width: 10%;
+}
+.first{
+
+  height: 600px;
+  display: block;
+  margin-right: 0;
+  background-color: #FFABE1;
+}
+.sec{
+  height: 600px;
+  background-color: #FFF5E4;
+
+  display: block;
+
+}
+.third{
+  height: 150px;
+
+  display: block;
+    background-color:#937DC2;
+}
+.coco{
+  height: 300px;
+  width: 150px;
+  position: absolute;
+  top: 309px;
+  left:5px;
+}
+.hut{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 403px;
+  left: 100px;
+}
+.grass
+{
+  height: 50px;
+  width: 60px;
+  position: absolute;
+  top: 550px;
+  left: 0px;
+}
+.g1{
+  height: 50px;
+  width:200px;
+  position: absolute;
+  top: 550px;
+  left: 250px;
+}
+.g2{
+  height: 50px;
+  width: 200px;
+  position: absolute;
+  top: 550px;
+  left: 400px;
+}
+
+
+.mt{
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  left: 1010px;
+  top:205px;
+  bottom: 0px;
+}
+.cloud{
+  position: absolute;
+  right: 300px;
+}
+.name
+{
+  text-align: center;
+  padding-top: 60px;
+}
+.intro{
+  text-align: center;
+}
+.sun{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 50px;
+  top: 10px;
+}
+.me {
+  height: 150px;
+  position: absolute;
+  left: 100px;
+  top: 750px;
+}
+.abt{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.about{
+  text-align: center;
+}
+.sakura{
+  height: 100px;
+  position:absolute;
+  right: 700px;
+  top: 1050px;
+}
+.art{
+  height: 200px;
+  position: absolute;
+  top: 750px;
+  right: 20px;
+}
+a{
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
+a:hover
+{
+  color: white;
+}
+.links{
+  margin: 70px 40px 0 660px;
+}
